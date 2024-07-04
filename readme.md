@@ -25,3 +25,9 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Demo
+
+Check out the video demonstration of the Coffee Smoke Visualization:
+
+[![Coffee Smoke Visualization](assets/video.mp4)](assets/video.mp4)
