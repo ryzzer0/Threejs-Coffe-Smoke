@@ -30,4 +30,4 @@ npm run build
 
 Check out the video demonstration of the Coffee Smoke Visualization:
 
-[![Coffee Smoke Visualization](assets/video.mp4)](assets/video.mp4)
+[![Coffee Smoke Visualization](assets/thumbnail.png)](assets/video.mp4)
